@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/Gilbert Kitetu/.p2/pool/plugins/org.eclipse.osgi_3.15.200.v20200214-1600.jar" sourcepath="C:/Users/Gilbert Kitetu/.p2/pool/plugins/org.eclipse.osgi_3.15.200.v20200214-1600.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Gilbert Kitetu/.p2/pool/plugins/org.eclipse.core.commands_3.9.700.v20191217-1850.jar" sourcepath="C:/Users/Gilbert Kitetu/.p2/pool/plugins/org.eclipse.core.commands_3.9.700.v20191217-1850.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Gilbert Kitetu/.p2/pool/plugins/org.eclipse.equinox.common_3.11.0.v20200206-0817.jar" sourcepath="C:/Users/Gilbert Kitetu/.p2/pool/plugins/org.eclipse.equinox.common_3.11.0.v20200206-0817.jar"/>
@@ -18,5 +18,7 @@
 	<classpathentry kind="lib" path="C:/Users/Gilbert Kitetu/.p2/pool/plugins/org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar" sourcepath="C:/Users/Gilbert Kitetu/.p2/pool/plugins/org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Gilbert Kitetu/.p2/pool/plugins/com.ibm.icu_64.2.0.v20190507-1337.jar" sourcepath="C:/Users/Gilbert Kitetu/.p2/pool/plugins/com.ibm.icu_64.2.0.v20190507-1337.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Gilbert Kitetu/.p2/pool/plugins/org.eclipse.ui.forms_3.9.0.v20200213-1442.jar" sourcepath="C:/Users/Gilbert Kitetu/.p2/pool/plugins/org.eclipse.ui.forms_3.9.0.v20200213-1442.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gilbert Kitetu/Desktop/Java/guisql1/googleSearchj/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gilbert Kitetu/Desktop/Java/guisql1/JavaProject/mysql-connector-java-5.1.49-bin.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
